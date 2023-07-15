@@ -43,7 +43,6 @@ def send_available_gifts(m):
     for gft in available_gifts:
         send_gift_message(gft, str(m.from_user.id))
     people.json["users"][str(m.from_user.id)]["sent_once"] = True
-    # print(messages)
 
 
 def get_gift_data(gift_id):
@@ -106,7 +105,6 @@ def send_gift_message(gft, user_id):
         "message_id": bot_message.message_id,
         "message_type": msg_type
     }
-    # print("messages", messages)
     message_agent.json = messages
     message_agent.save()
 
@@ -168,7 +166,6 @@ def gift_update_iteration():
                     pass
         for gft in av_gifts:
             if (user_id, gft["id"]) not in messages:
-                print("detected at", (user_id, gft["id"]))
                 send_gift_message(gft, user_id)
 
 
