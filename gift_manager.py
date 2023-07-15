@@ -62,7 +62,6 @@ class GiftsJSON(FileJSON):
         for (pattern, pattern_matched_gifts) in matching.items():
             if re.search(pattern, user_name):
                 return [gift for gift in user_available if gift["id"] in pattern_matched_gifts]
-        print("user_available", user_available)
         return user_available
 
 
