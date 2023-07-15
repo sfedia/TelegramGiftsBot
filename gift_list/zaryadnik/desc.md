@@ -1,0 +1,1 @@
+[MVideo\.ru](https://www.mvideo.ru/products/setevoe-zaryadnoe-ustroistvo-samsung-czu-samsung-type-c-25w-wh-50173778)

@@ -1,0 +1,65 @@
+{
+    "gifts": [
+        {
+            "id": "electric_razor",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+         {
+            "id": "akril",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+        {
+            "id": "hdmi",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+         {
+            "id": "humidifier",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+         {
+            "id": "lineri",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+         {
+            "id": "nochnik",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+         {
+            "id": "powerbank",
+            "total_count": 2,
+            "count_per_user": 1
+        },
+         {
+            "id": "rukzak",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+         {
+            "id": "ssd",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+        {
+            "id": "akv_pencils",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+        {
+            "id": "yabloko_karta",
+            "total_count": 1,
+            "count_per_user": 1
+        },
+        {
+            "id": "zaryadnik",
+            "total_count": 1,
+            "count_per_user": 1
+        }
+    ],
+    "person_matching": {}
+}

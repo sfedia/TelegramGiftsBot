@@ -1,0 +1,1 @@
+ Xiaomi Fast Charge PB3 18W 10000mAh Black

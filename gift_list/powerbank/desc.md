@@ -1,0 +1,1 @@
+[MVideo\.ru](https://www.mvideo.ru/products/vneshnii-akkumulyator-xiaomi-fast-charge-pb3-18w-10000mah-black-vxn4274gl-50132515)

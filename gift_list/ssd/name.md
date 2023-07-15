@@ -1,0 +1,1 @@
+500 ГБ Внешний SSD Kingston SXS2000

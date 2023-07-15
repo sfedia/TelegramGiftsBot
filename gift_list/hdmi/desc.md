@@ -1,0 +1,1 @@
+[Ozon\.ru](https://www.ozon.ru/product/kabel-hdmi-type-c-orbita-ot-avw49-perehodnik-adapter-2-metra-879758129/?asb=f1AK4hh0BltqpKhBitLdxvboGWnFL7xkIblGYHIxVeU%253D&asb2=SSALjD_R42u_T6xN_WADniSGAOhLzgjkH5frJ5LZ8Qm_-p9vWPR_r_NfN7h-arKJ&avtc=1&avte=2&avts=1688898072&sh=NLdh1_12zg)

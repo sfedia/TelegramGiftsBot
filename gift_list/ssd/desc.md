@@ -1,0 +1,1 @@
+[DNS](https://www.dns-shop.ru/product/ee5f2c3ee792ed20/500-gb-vnesnij-ssd-kingston-sxs2000-sxs2000500g/)
